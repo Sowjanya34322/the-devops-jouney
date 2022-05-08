@@ -8,4 +8,9 @@ Infrastructure as Code - IaC  - Gives Consistency, scalability, Resuability and 
 Configuration Management - change managemnet- Tracking the chnages happened over the period   GITHUB is the tool - SVN-Sub Version Notes?(old days)
 orchestartion buisnodng car 
 Tool?  - code
-
+Observability - Imp instead just  monitoring, we are proactive
+Tracability   - track of all the path where the request travelled
+micro service  - shoe shop examples  all individual Microservices talk through each other with API  - disadvantages too
+chatbot
+layers of   3 Tier Achitecture  UI - middlewere API-messah=ging bus-  Db-
+nodeJS most used Apps server for frontend
