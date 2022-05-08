@@ -13,4 +13,16 @@ Tracability   - track of all the path where the request travelled
 micro service  - shoe shop examples  all individual Microservices talk through each other with API  - disadvantages too
 chatbot
 layers of   3 Tier Achitecture  UI - middlewere API-messah=ging bus-  Db-
-nodeJS most used Apps server for frontend
+nodeJS most used Apps server for frontend   NPM -Node package mngr - used to compile java script
+CI Tools -cloud- Azure Devops  - one of Orchestartion for CI
+
+Puppet, Chef, salt infra as code   in Infra as code
+
+to simplify  XML - they came up with YAML - YAML yet another markup language
+JASON  - 
+
+Datadog Dynatrace  - Application Performance monitoring tools  
+prometheus -
+
+Orchestration tools   zookeeper does the API's orchestration to talk within them
+
