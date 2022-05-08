@@ -8,3 +8,4 @@ Infrastructure as Code - IaC  - Gives Consistency, scalability, Resuability and 
 Configuration Management - change managemnet- Tracking the chnages happened over the period   GITHUB is the tool - SVN-Sub Version Notes?(old days)
 orchestartion buisnodng car 
 Tool?  - code
+
