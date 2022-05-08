@@ -19,10 +19,13 @@ CI Tools -cloud- Azure Devops  - one of Orchestartion for CI
 Puppet, Chef, salt infra as code   in Infra as code
 
 to simplify  XML - they came up with YAML - YAML yet another markup language
-JASON  - 
-
+JASON  - Ansible
+Kubernities
 Datadog Dynatrace  - Application Performance monitoring tools  
 prometheus -
 
 Orchestration tools   zookeeper does the API's orchestration to talk within them
 
+Homework - whats is cloud, Understanding of Public and Provate cloud - 
+AWS- CI/CD - code build -Code pipeline
+MS -Azure devops
