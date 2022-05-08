@@ -5,4 +5,4 @@ There is no particular practice is in place but what can be done for the particu
 source control mgmt repository
 Infrastructure as Code - IaC  - Gives Consistency, scalability, Resuability and simplify Complexity , self documneting (Readme will be ready and can be accessed across org)
 -Create server-Network - code  etc steps
-Configuration Management - change managemnet- Tracking the chnages happened over the period   GITHUB is the tool - SVN(old days)
+Configuration Management - change managemnet- Tracking the chnages happened over the period   GITHUB is the tool - SVN-Sub Version Notes?(old days)
