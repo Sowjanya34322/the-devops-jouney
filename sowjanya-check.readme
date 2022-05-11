@@ -1,4 +1,9 @@
 #My Understanding of Cloud
 Cloud is a readily available state of resources(whether its just server(hardware),  with few clicks.
-When we think of Hassle free environmnet, like we need not to consider the future capacity enhancement of the Infrastructure, We need not to worry about the scalability(up/down) and maintain 
-extra resources when in Peak/off peak usage time of the product.
+When we think of low maintenance environmnet, like we need not to consider the future capacity enhancement of the Infrastructure, We need not to worry about the 
+scalability(up/down) and maintain extra resources when in Peak/off peak usage time of the product.
+We need not maintain the team to check on newer versions and updating the h/w and/or applications.
+Cloud is really good opportunity to use the environments to work on many different technologies to figureout what suites best for the Business.
+We can use the environmnets only when we are actually working and spin-off the servers when done for the day and within minutes we can spin the server and restore
+the yesterday's work using the snapshot, and resume the work with minimal cost, ratherthan keeping the server idle and pay for entire night/weekend.
+we have different levels of services to choose from, like Saas Paas and Iaas.
