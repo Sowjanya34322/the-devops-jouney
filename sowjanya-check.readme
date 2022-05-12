@@ -8,4 +8,4 @@ We can use the environmnets only when we are actually working and spin-off the s
 the yesterday's work using the snapshot, and resume the work with minimal cost, ratherthan keeping the server idle and pay for entire night/weekend.
 we have different levels of services to choose from, like Saas Paas and Iaas.
 We can also create a standard Template of the resource requirement, and use that template everytime, we want to spin a new Instance, 
-which saves sometime on creating identical instances multiple times.
+which saves sometime on repeated efforts  for creating identical instances multiple times.
